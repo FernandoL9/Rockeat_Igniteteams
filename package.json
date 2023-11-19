@@ -9,6 +9,7 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@types/node": "^20.9.2",
     "@types/react": "~18.2.14",
     "@types/styled-components": "^5.1.30",
     "@types/styled-components-react-native": "^5.2.5",
